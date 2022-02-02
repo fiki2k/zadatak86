@@ -9,6 +9,6 @@ int main()
     printf("Unesite masu po zelji u gramima: ");
     scanf("%f", &m);
     kilogrami = m / 1000;
-    printf("Masa u gramima je = %f", kilogrami);
+    printf("Masa u kilogramima je = %f", kilogrami);
     return 0;
 }
